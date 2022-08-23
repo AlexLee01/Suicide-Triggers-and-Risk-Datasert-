@@ -1,5 +1,5 @@
 # Suicide-Triggers-and-Risk-Dataset
-Suicide Triggers and Risk Datasert 
+Suicide Triggers and Risk Dataset 
 Dataset of the paper:"Suicide Risk Level Prediction and Suicide Trigger Detection: A Benchmark Dataset"
 
 To receive access, you will need to read, sign, and send back the attached data usage agreement (DUA).
