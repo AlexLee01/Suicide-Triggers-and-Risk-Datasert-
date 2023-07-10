@@ -11,4 +11,4 @@ You cannot attempt to identify any user in the data set.
 You cannot contact any user in the data set.
 If your institution has issues with language in the DUA, please have the responsible person at your institution contact us with their concerns and suggested modifications.
 
-Once the Primary Investigator has signed the DUA, the Primary Investigator should email the signed form to hialex.li@connect.polyu.hk and cc xinhong.chen@my.cityu.edu.hk
+Once the Primary Investigator has signed the DUA, the Primary Investigator should email the signed form to hialex.li@connect.polyu.hk and cc Dr. Xinhong Chen: xinhong.chen@my.cityu.edu.hk
